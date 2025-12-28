@@ -1,4 +1,6 @@
 # ShopHub - E-commerce UI Design
+## 🔗 Live Demo
+https://jimittpopat-bit.github.io/shophub-ecommerce/
 A modern, responsive e-commerce website UI built with HTML and CSS. ShopHub is a front-end design showcase featuring a clean Amazon-inspired layout with professional styling and responsive design principles.
 🌟 Live Demo
 🔗 View Live Website
